@@ -1,0 +1,7 @@
+.item:hover {
+  transform: translate(0px, -5px);
+}
+
+.item {
+  transition: transform 0.2s;
+}
